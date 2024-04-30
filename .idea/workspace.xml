@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73c10b5c-e2b6-4797-b5a2-4ca1bd0d4b7d" name="Changes" comment="" />
+    <list default="true" id="73c10b5c-e2b6-4797-b5a2-4ca1bd0d4b7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/finaltest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Tests/BookingServiceTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/max/BookingService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/max/BookingService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,55 +51,56 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Professional/Documents/Java/GB_Java_Idea",
     "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.MathServiceTest">
-    <configuration name="MathServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.BookingServiceTests.testBooking">
+    <configuration name="BookingServiceTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="finaltest" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
+      <option name="MAIN_CLASS_NAME" value="BookingServiceTests" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathServiceTest.testGetAnswer_DiscriminantNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookingServiceTests.createBookTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="finaltest" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
-      <option name="METHOD_NAME" value="testGetAnswer_DiscriminantNegative" />
+      <option name="MAIN_CLASS_NAME" value="BookingServiceTests" />
+      <option name="METHOD_NAME" value="createBookTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathServiceTest.testGetAnswer_DiscriminantPositive (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookingServiceTests.simpleTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="finaltest" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
-      <option name="METHOD_NAME" value="testGetAnswer_DiscriminantPositive(int,int,int)" />
+      <option name="MAIN_CLASS_NAME" value="BookingServiceTests" />
+      <option name="METHOD_NAME" value="simpleTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathServiceTest.testGetD_AllZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BookingServiceTests.testBooking" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="finaltest" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
-      <option name="METHOD_NAME" value="testGetD_AllZero" />
+      <option name="MAIN_CLASS_NAME" value="BookingServiceTests" />
+      <option name="METHOD_NAME" value="testBooking" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MathServiceTest.testGetD_NonZeroValues" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MathServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="finaltest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="MathServiceTest" />
-      <option name="METHOD_NAME" value="testGetD_NonZeroValues" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -110,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BookingServiceTests.testBooking" />
+        <item itemvalue="JUnit.BookingServiceTests" />
+        <item itemvalue="JUnit.BookingServiceTests.createBookTest" />
+        <item itemvalue="JUnit.BookingServiceTests.simpleTest" />
         <item itemvalue="JUnit.MathServiceTest" />
-        <item itemvalue="JUnit.MathServiceTest.testGetD_NonZeroValues" />
-        <item itemvalue="JUnit.MathServiceTest.testGetD_AllZero" />
-        <item itemvalue="JUnit.MathServiceTest.testGetAnswer_DiscriminantNegative" />
-        <item itemvalue="JUnit.MathServiceTest.testGetAnswer_DiscriminantPositive (1)" />
       </list>
     </recent_temporary>
   </component>
